@@ -1,0 +1,7 @@
+/* line 1, sass/partials/_header.scss */
+header {
+  margin: 0 auto;
+  width: 800px;
+  height: 80px;
+  background: blue;
+}
