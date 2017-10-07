@@ -1,1 +1,0 @@
-# jorgegvalencia.github.io
